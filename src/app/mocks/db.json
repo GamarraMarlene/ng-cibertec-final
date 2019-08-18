@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Manuel eeeee",
+      "lastname": "Del Pozo",
+      "email": "madepozo@gmail.com",
+      "age": 28,
+      "role": "Web UI Developer",
+      "phone": 997868546,
+      "id": 1
+    },
+    {
+      "name": "Ricardo José",
+      "lastname": "Canahualpa Durand",
+      "email": "rj.canahua@gmail.com",
+      "age": "28",
+      "role": "Analista",
+      "phone": "987928426",
+      "id": 2
+    },
+    {
+      "name": "Marlene Emma",
+      "lastname": "Gamarra Quiroga",
+      "email": "gamarra.quiroga@gmail.com",
+      "age": "34",
+      "role": "Analista",
+      "phone": "987982425",
+      "id": 3
+    }
+  ]
+}
